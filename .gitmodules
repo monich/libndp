@@ -1,0 +1,3 @@
+[submodule "libndp"]
+	path = libndp
+	url = https://github.com/jpirko/libndp.git
